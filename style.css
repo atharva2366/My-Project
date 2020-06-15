@@ -1,0 +1,58 @@
+.orange{color:#FF8C00;}
+#black { color:gray ; 
+    font-size:1.5em ;}
+h2 { color:white ;
+     font-size:1.2em ;}
+.red-color{
+            color:#FF7F50;
+          }
+em{color:#ffa500;}
+.purple{color: #ffa550;}
+body{
+    font-family:sans-serif;
+    color:darkgray;
+    line-height:26px ;
+    }
+
+.side-img {
+    width:50% ;
+    padding-left:25% ;
+    border-radius: 10px ;
+ }
+    
+.half-width{
+    
+    width:50% ;
+    float:left ;
+     
+    }
+.primary-btn{
+     color:white ;
+     background-color:#ff4500 ;
+     padding:10px 40px 10px 40px ;
+     border-radius: 20px;
+     text-decoration: none;
+ }
+ 
+.container{
+padding-left: 5%;
+padding-top:5% ;
+display: inline-block;
+background-color: black  ;
+border:5px ;
+border-radius: 25px ;
+margin-bottom: 50px ;
+}
+
+.experience{
+padding: 30px ;
+margin: 30px;
+background-color:#E0FFFF; rbg(238,251,255);
+border-radius:25px ;
+}
+
+.experience-item{
+padding:10px ;
+border-left:1px solid gray ;
+}
+ 
